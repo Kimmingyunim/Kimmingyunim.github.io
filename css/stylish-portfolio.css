@@ -170,9 +170,12 @@ hr.small {
 
 /* Services */
 
+#services {
+    background: url(../img/skill.png) no-repeat center center scroll;
+}
+
 .services {
     padding: 50px 0;
-    background: url(../img/skill.png) no-repeat center center scroll;
 }
 
 .service-item {
